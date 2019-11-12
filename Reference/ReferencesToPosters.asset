@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferencesToPosters
+  m_EditorClassIdentifier: 
+  m_GuidLow: 4834942767099799016
+  m_GuidHigh: 4419960214613995912
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5333812245293456512
+      m_GuidHigh: 15086254728903498890
+    m_SerializedTextureGuid:
+      m_GuidLow: 1063980119354890773
+      m_GuidHigh: 15373583014624276939
+    m_Size: {x: 1, y: 1.4958677}
+    m_SpecifySize: 1
+    m_Name: BigObject1
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4909067000592736881
+      m_GuidHigh: 14419951927629458312
+    m_SerializedTextureGuid:
+      m_GuidLow: 16106131066626120048
+      m_GuidHigh: 9919178144272604073
+    m_Size: {x: 1, y: 1.5460993}
+    m_SpecifySize: 1
+    m_Name: BigObject4
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4699921417888065649
+      m_GuidHigh: 11625444478396775830
+    m_SerializedTextureGuid:
+      m_GuidLow: 12016841604008526137
+      m_GuidHigh: 17368861535374432779
+    m_Size: {x: 1, y: 2.0696518}
+    m_SpecifySize: 1
+    m_Name: FlyerNovember
+    m_Texture: {fileID: 0}
