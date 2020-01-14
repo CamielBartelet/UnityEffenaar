@@ -36,5 +36,5 @@ De scripts kunnen toegevoegd worden aan je AR Session Origin en de verschillende
 * TransFormTexRight.cs - Dynamisch script beweing elementen flyer naar rechts
 * WaveCreator.cs - Toepasbaar op gecreëerd grid bij PillarGrid.cs
 
-Comments bij de scripts gevoegd worden wanneer deze niet meer in ontwikkeling zijn.
+Comments zullen bij de scripts gevoegd worden wanneer deze niet meer in ontwikkeling zijn.
 
