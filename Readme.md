@@ -14,7 +14,7 @@ MultipleTraceFlyerPoster is de hoofdmap en bevat alle werkende scripts en prefab
 
 Gebruik bij het bouwen van de AR-app in Unity ARFoundation. Zie online tutorials voor de setup van een eenvoudige AR-App.
 
-De scripts kunnen toegevoegd worden aan je AR Session Origin en de verschillende in te zetten GameObjecten afhankelijk van de werking van de Scripts.
+De scripts kunnen toegevoegd worden aan je AR Session Origin en de verschillende in te zetten GameObjecten afhankelijk van de werking van de scripts.
 
-Comments bij de scripts zullen bijgevoegd worden wanneer deze niet meer in ontwikkeling zijn.
+Comments bij de scripts gevoegd worden wanneer deze niet meer in ontwikkeling zijn.
 
